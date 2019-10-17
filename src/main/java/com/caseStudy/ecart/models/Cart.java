@@ -21,7 +21,10 @@ public class Cart {
         this.user=user;
         this.quantity=quantity;
     }
+public Cart()
+{
 
+}
     public int getCartid() {
         return cartid;
     }

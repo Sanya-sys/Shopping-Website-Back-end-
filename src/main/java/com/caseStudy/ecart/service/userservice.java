@@ -1,7 +1,5 @@
 package com.caseStudy.ecart.service;
 
-
-
 import com.caseStudy.ecart.models.Users;
 import com.caseStudy.ecart.repository.userRepository;
 import org.springframework.beans.factory.annotation.Autowired;
